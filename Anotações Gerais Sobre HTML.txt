@@ -1,0 +1,7 @@
+
+- links úteis sobre HTML e o programa Visual Code criação do site.
+*https://www.w3schools.com/tags/default.asp
+*https://code.visualstudio.com/
+*http://v8.dev/
+ 
+
